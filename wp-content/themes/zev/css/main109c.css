@@ -1161,15 +1161,12 @@ header .header-text {
 }
 
 header #logo a {
-    position: relative;
-    min-height: 32px;
+    width: 5%;
 }
 
-header #logo a img {
-    position: absolute;
-    top: 0;
-    left: 0;
-}
+/* header #logo a img {
+    width: 5%;
+} */
 
 header .site-logo-second,
 .themesflat_header_wrap.header-sticky header .site-logo-primary {
@@ -8266,7 +8263,7 @@ body.elementor-editor-active .page-wrap.sidebar-left .content-area {
 
 .bg-gradient .elementor-widget-container:before {
 	content: '';
-	background-image: linear-gradient( 180deg ,#eb6d2f 0%, #fdd906 100%);
+	background-image: linear-gradient(180deg, #F10000 0%, #F87C7C 100%);
 	-webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     -ms-transition: all 0.3s;

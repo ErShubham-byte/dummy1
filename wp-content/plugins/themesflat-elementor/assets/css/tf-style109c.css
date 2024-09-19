@@ -6463,7 +6463,7 @@ header.is-section-white {
     border-color: rgba(52, 52, 52, 0.1) !important;
 }
 
-.tf-widget-header #logo a {
+/* .tf-widget-header #logo a {
     position: relative;
     min-height: 32px;
 }
@@ -6472,7 +6472,7 @@ header.is-section-white {
     position: absolute;
     top: 0;
     left: 0;
-}
+} */
 
 header .site-logo-second,
 header.is-section-white .site-logo-primary,
