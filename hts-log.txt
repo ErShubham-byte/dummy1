@@ -1,0 +1,25 @@
+HTTrack3.49-2 launched on Thu, 19 Sep 2024 12:07:16 at https://doubleclicknow.com/ https://doubleclicknow.com/about-us/ https://doubleclicknow.com/contact-us/
+(winhttrack https://doubleclicknow.com/ https://doubleclicknow.com/about-us/ https://doubleclicknow.com/contact-us/ -W -O "/Users/shubhambhattacharya/Projects/dums/1909/dummy1" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:10:22	Warning: 	Moved Permanently for https://doubleclicknow.com/?p=5143
+12:10:22	Warning: 	File has moved from https://doubleclicknow.com/?p=5143 to https://doubleclicknow.com/about-us/
+12:10:22	Warning: 	Moved Permanently for https://doubleclicknow.com/?p=167
+12:10:22	Warning: 	File has moved from https://doubleclicknow.com/?p=167 to https://doubleclicknow.com/contact-us/
+12:10:22	Error: 	"Not Found" (404) at link https://doubleclicknow.com/wp-content/plugins/themesflat-elementor/assets/css/owl.video.play.png (from https://doubleclicknow.com/wp-content/plugins/themesflat-elementor/assets/css/owl.carousel.css?ver=6.6.2)
+12:10:22	Error: 	"Not Found" (404) at link https://doubleclicknow.com/Trident/ (from https://doubleclicknow.com/wp-content/plugins/themesflat-elementor/post-format/assets/js/iziModal.js?ver=6.6.2)
+12:10:22	Error: 	"Not Found" (404) at link https://doubleclicknow.com/cute-alert.js (from https://doubleclicknow.com/wp-content/plugins/metform/public/assets/lib/cute-alert/cute-alert.js?ver=3.9.0)
+12:10:22	Error: 	"Not Found" (404) at link https://doubleclicknow.com/${i}/img/${e}.svg (from https://doubleclicknow.com/wp-content/plugins/metform/public/assets/lib/cute-alert/cute-alert.js?ver=3.9.0)
+12:10:22	Error: 	"Not Found" (404) at link https://doubleclicknow.com/$&/ (from https://doubleclicknow.com/wp-includes/js/dist/vendor/react.min.js?ver=18.3.1)
+12:10:22	Error: 	"Not Found" (404) at link https://doubleclicknow.com/blots/ (from https://doubleclicknow.com/wp-content/plugins/metform/public/assets/js/app.js?ver=3.9.0)
+12:10:22	Error: 	"Not Found" (404) at link https://doubleclicknow.com/formats/ (from https://doubleclicknow.com/wp-content/plugins/metform/public/assets/js/app.js?ver=3.9.0)
+12:10:22	Error: 	"Not Found" (404) at link https://doubleclicknow.com/-negative.svg (from https://doubleclicknow.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.23.4)
+12:10:22	Error: 	"Not Found" (404) at link https://doubleclicknow.com/OPR/ (from https://doubleclicknow.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.23.4)
+12:10:22	Error: 	"Not Found" (404) at link https://doubleclicknow.com/document.location (from https://doubleclicknow.com/wp-content/plugins/elementor-pro/assets/js/preloaded-elements-handlers.min.js?ver=3.6.5)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 6 seconds : 180 links scanned, 167 files written (18073051 bytes overall) [11452645 bytes received at 61573 bytes/sec], 9766129 bytes transferred using HTTP compression in 132 files, ratio 26%, 10.0 requests per connection
+(10 errors, 4 warnings, 0 messages)
